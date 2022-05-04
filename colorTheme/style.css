@@ -1,0 +1,38 @@
+*{
+    border-radius: 30px;
+    padding: 8px;  
+}
+.themeContainer{
+    position: fixed;
+    top: 0;
+}
+.theme{
+    height:30px;
+    width: 30px;
+    cursor: pointer;
+    margin-left: 1800px;
+
+}
+#dark{
+    background: black;
+}
+#salmon{
+    background: salmon;
+}
+#yellow{
+    background: yellow;
+
+}
+.dark-theme{
+   background: black; 
+   color: azure;
+}
+
+.salmon-theme{
+    background: salmon; 
+    color: azure;
+ }
+ .yellow-theme{
+    background: yellow; 
+    color: azure;
+ }
