@@ -1,1 +1,1 @@
-[web collection](cover.png)
+![web collection](cover.png)
