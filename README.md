@@ -1,1 +1,1 @@
-# web-collection
+[web collection](cover.png)
