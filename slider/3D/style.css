@@ -36,7 +36,7 @@
     transform-origin: center;
     transform-style: preserve-3d;
     transform: rotateY(calc(var(--i)*45deg))translateZ(400px);
-    -webkit-box-reflect: below 0px linear-gradient(transparent,transparent,#0004) ;
+    -webkit-box-reflect: below 0px linear-gradient(transparent,transparent,#0005);
 }
 .box span img{
     position: absolute;
