@@ -2,16 +2,21 @@
     border-radius: 30px;
     padding: 8px;  
 }
+
 .themeContainer{
-    position: fixed;
-    top: 0;
+    top:40%;
+    padding:6px;
+    background:#9d9d9d;
+    border-radius:25px;
+    position: absolute;
+
+
 }
 .theme{
-    height:30px;
-    width: 30px;
+    margin:2px;
+    height:20px;
+    width: 20px;
     cursor: pointer;
-    margin-left: 1800px;
-
 }
 #dark{
     background: black;
